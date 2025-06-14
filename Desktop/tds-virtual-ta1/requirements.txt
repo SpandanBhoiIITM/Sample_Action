@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-scikit-learn
-selenium
-chromedriver-autoinstaller
-requests
